@@ -18,3 +18,11 @@ if (marks > 90) {
 
 // Display the result
 console.log("The student's grade is: " + grade);
+
+
+
+
+
+
+
+
